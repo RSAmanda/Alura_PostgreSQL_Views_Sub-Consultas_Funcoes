@@ -34,13 +34,13 @@
 
 ### Aula 01
 
-[banco-inicial.sql](Notas%20de%20Aula%20-%20PostgreSQL%20Views,%20Sub-consultas%20e%20%2026d3fe7f9e0241278685f79e6e01968a/banco-inicial.sql)
+[banco-inicial.sql](https://github.com/RSAmanda/Alura_PostgreSQL_Views_Sub-Consultas_Funcoes/blob/7d5bb80071cc60160bfde92f3279787a4884a156/banco-inicial.sql)
 
 ### Aula 02
 
-[dados-aula-2.sql](Notas%20de%20Aula%20-%20PostgreSQL%20Views,%20Sub-consultas%20e%20%2026d3fe7f9e0241278685f79e6e01968a/dados-aula-2.sql)
+[dados-aula-2.sql](https://github.com/RSAmanda/Alura_PostgreSQL_Views_Sub-Consultas_Funcoes/blob/7d5bb80071cc60160bfde92f3279787a4884a156/dados-aula-2.sql)
 
-[relatorios-aula-2.sql](Notas%20de%20Aula%20-%20PostgreSQL%20Views,%20Sub-consultas%20e%20%2026d3fe7f9e0241278685f79e6e01968a/relatorios-aula-2.sql)
+[relatorios-aula-2.sql](https://github.com/RSAmanda/Alura_PostgreSQL_Views_Sub-Consultas_Funcoes/blob/7d5bb80071cc60160bfde92f3279787a4884a156/relatorios-aula-2.sql)
 
 # Aulas
 
