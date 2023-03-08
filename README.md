@@ -10,7 +10,7 @@ Repositório dedicado às notas de aula do curso da Alura: PostgreSQL: Views, Su
 
 # Notas de Aula
 
-[Notas de Aula - PostgreSQL: Views, Sub-consultas e Funções](PostegreSQL%20Views,%20Sub-Consultas%20e%20Func%CC%A7o%CC%83es%208cf74248ef614797a8984c7f98620631/Notas%20de%20Aula%20-%20PostgreSQL%20Views,%20Sub-consultas%20e%20%2026d3fe7f9e0241278685f79e6e01968a.md)
+[Notas de Aula - PostgreSQL: Views, Sub-consultas e Funções](https://github.com/RSAmanda/Alura_PostgreSQL_Views_Sub-Consultas_Funcoes/blob/21b627b85707d2e0c41eefc07cda7ab2f6cf0e11/Notas_de_Aula.md)
 
 # Conteúdo por Aula
 
